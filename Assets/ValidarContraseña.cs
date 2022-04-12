@@ -13,8 +13,8 @@ public class ValidarContraseña : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        msjBox.SetActive(false);
         contraseñaCorrecta = "abc";
+        msjBox.SetActive(false);    
     }
 
     // Update is called once per frame
