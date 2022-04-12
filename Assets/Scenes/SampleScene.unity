@@ -747,6 +747,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1076bb0bd493b594a8eb3e800107c179, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  textomsj: {fileID: 1026030089}
+  ingresadoUsuario: {fileID: 312525273}
+  msjBox: {fileID: 553709963}
 --- !u!4 &736736991
 Transform:
   m_ObjectHideFlags: 0
